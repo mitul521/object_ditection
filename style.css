@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+}
+a{
+ width: 30%;
+  background-color: lightgreen;
+    color: black;
+    border-radius: 25px;
+    font-size:25px !important;
+    
+}
+
+img{
+  height: 550px;
+  width: 650px;
+  position: center;
+}
